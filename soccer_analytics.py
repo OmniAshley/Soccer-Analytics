@@ -25,8 +25,6 @@
 #    - Set up free-tier API for real-time data
 #
 # Step 3: Preprocess & Engineer Features
-# 
-#
 # Required libraries: pandas, requests, seaborn, scikit-learn
 # Acronyms: FTHG (Full Time Home Goals), FTAG(Full Time Away
 #           Goals), FTR (Full Time Result(H, D, A)),
